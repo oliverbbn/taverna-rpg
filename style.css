@@ -1,0 +1,7 @@
+.cartao{
+    transition: 0.3s;
+    }
+.cartao:hover{
+    transform: scale(1.05);
+    border-color: #ffd700;
+    }
